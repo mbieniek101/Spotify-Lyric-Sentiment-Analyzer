@@ -1,5 +1,7 @@
 # Hackathon
 
+This is a forked copy of the UB Hackathon project I worked on in 2023. We had fun learning and experimenting with our knowledge of web design and working with APIs and the associated challenges with applying these skills in a way we never have before.
+
 Idea
 ==
 With the ability of music to convey emotion, a person's music history can directly correlate to their mood. Wouldn't you want to know what kind of mood you've had throughout the day?
